@@ -1,0 +1,10 @@
+/home/speed-snail/dev/crud-app/developer-bootcamp-2024/project-4-crud-app/anchor/target/debug/deps/libserde_bytes-6ce0cfa4538ef595.rmeta: /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/home/speed-snail/dev/crud-app/developer-bootcamp-2024/project-4-crud-app/anchor/target/debug/deps/serde_bytes-6ce0cfa4538ef595.d: /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs:

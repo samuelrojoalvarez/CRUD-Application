@@ -1,0 +1,9 @@
+/home/speed-snail/dev/crud-app/developer-bootcamp-2024/project-4-crud-app/anchor/target/debug/deps/libark_serialize-39f93cfaab8d2da1.rmeta: /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/home/speed-snail/dev/crud-app/developer-bootcamp-2024/project-4-crud-app/anchor/target/debug/deps/ark_serialize-39f93cfaab8d2da1.d: /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md
+
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/lib.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/error.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/flags.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/impls.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ark-serialize-0.4.2/src/../README.md:

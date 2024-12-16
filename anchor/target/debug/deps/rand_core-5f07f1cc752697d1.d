@@ -1,0 +1,10 @@
+/home/speed-snail/dev/crud-app/developer-bootcamp-2024/project-4-crud-app/anchor/target/debug/deps/librand_core-5f07f1cc752697d1.rmeta: /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/lib.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/error.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/block.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/impls.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/le.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/os.rs
+
+/home/speed-snail/dev/crud-app/developer-bootcamp-2024/project-4-crud-app/anchor/target/debug/deps/rand_core-5f07f1cc752697d1.d: /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/lib.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/error.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/block.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/impls.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/le.rs /home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/os.rs
+
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/lib.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/error.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/block.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/impls.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/le.rs:
+/home/speed-snail/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rand_core-0.5.1/src/os.rs:
